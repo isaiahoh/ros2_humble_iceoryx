@@ -1,0 +1,7 @@
+[submodule "src/middleware/rmw_iceoryx"]
+	path = src/middleware/rmw_iceoryx
+	url = https://github.com/ros2/rmw_iceoryx.git
+	branch = humble
+[submodule "src/middleware/iceoryx"]
+	path = src/middleware/iceoryx
+	url = https://github.com/eclipse-iceoryx/iceoryx.git
